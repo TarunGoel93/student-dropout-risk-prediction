@@ -1,1 +1,1 @@
-Reviewed classification metrics and validation approach.
+Improved feature engineering documentation for categorical variables.
