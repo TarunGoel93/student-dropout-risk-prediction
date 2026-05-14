@@ -1,1 +1,1 @@
-Updated repository structure for maintainability.
+Documented feature selection considerations.
