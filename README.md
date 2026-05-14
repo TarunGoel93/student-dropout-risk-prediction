@@ -1,1 +1,1 @@
-Enhanced training workflow consistency.
+Updated README with project progress details.
