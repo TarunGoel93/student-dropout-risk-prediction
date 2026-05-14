@@ -1,1 +1,1 @@
-Updated README with project progress details.
+Reviewed cross-validation methodology and metrics.
