@@ -1,1 +1,1 @@
-Enhanced readability of project setup instructions.
+Updated exploratory data analysis observations.
