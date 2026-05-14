@@ -1,1 +1,1 @@
-Improved feature normalization documentation.
+Reviewed dataset balancing techniques for classification tasks.
