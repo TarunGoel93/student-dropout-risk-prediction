@@ -1,1 +1,1 @@
-Reviewed model training consistency across validation datasets.
+Enhanced readability of project setup instructions.
