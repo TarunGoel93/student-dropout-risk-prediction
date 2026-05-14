@@ -1,1 +1,1 @@
-Updated exploratory data analysis observations.
+Refined machine learning pipeline documentation.
