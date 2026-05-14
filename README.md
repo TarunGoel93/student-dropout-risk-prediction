@@ -1,1 +1,1 @@
-Refined evaluation strategy for dropout prediction models.
+Updated repository structure for maintainability.
