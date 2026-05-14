@@ -1,1 +1,1 @@
-Enhanced project structure for scalability and maintenance.
+Documented classification model comparison insights.
